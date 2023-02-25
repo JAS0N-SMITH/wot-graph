@@ -1,6 +1,16 @@
 # wot-graph
 A neo4j project that maps relationships between The World of Time places, characters, groups, etc.
 
+https://neo4j.com/sandbox/
+https://neo4j.com/labs/arrows/
+
+### TODO
+- Start with small data set, hand entered, ta'veren/main chars only, etc
+- scrape data from wiki
+- automate project setup using docker
+- setup deployment environment using AWS 
+- create and deploy web interface
+
 ## Model
 - Places
   - Nations in the Westlands
